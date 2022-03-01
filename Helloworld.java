@@ -4,6 +4,7 @@ System.out.println("Hi This is sravani");
 int a=10;
 int b=14;
 int c=30;
+string="Sravani";
 }
 }
 
